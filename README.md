@@ -1,4 +1,4 @@
-#Live Chat Room
+## Live Chat Room
 
 *Build a wep app live chat room using Python + Flask*
 
