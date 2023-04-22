@@ -5,7 +5,8 @@
 ```
 Status: Finished
 ```
-## DescriptionA live chat room is a web application that allows users to engage in real-time text-based conversations with other users. It can be implemented using Python and various web technologies like HTML, CSS, JavaScript, and a Python web framework like Flask.
+## Description
+A live chat room is a web application that allows users to engage in real-time text-based conversations with other users. It can be implemented using Python and various web technologies like HTML, CSS, JavaScript, and a Python web framework like Flask.
 
 ## Languages 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
